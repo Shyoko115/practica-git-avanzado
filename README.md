@@ -98,7 +98,9 @@ git push -u origin main
 ### Investigación adicional
 Ejecuta git reflog. En tu README.md, en una sección 
 "Investigación adicional", explica en 2-3 líneas qué información 
-muestra este comando.
+muestra este comando.}
+
+git reflog registra cada cambio en el puntero HEAD y en las puntas de tus ramas locales, sirviendo como una red de seguridad para recuperar trabajo perdido.
 
 ## ✅ Entrega
 Link de tu repositorio (fork) + pantallazo de "git log --oneline"
